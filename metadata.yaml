@@ -1,0 +1,49 @@
+_repo: A-brief-history-of-the-3rd-Battalion-1st-Punjab-Regiment-b-formerly-76th-Punjabis-16th-Madras__74664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: '"... compiled and published to commemorate the 150th Anniversary of
+  the Raising of the 16th Carnatic Battalion and its continuous service from 1776
+  to this date [1926]."--Foreword.'
+gutenberg_issued: '2024-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74664'
+language: en
+pgterms:marc905: 20240211174508author
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aAldershot :$bGale & Polden Limited, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Middle East'
+- !lcsh 'Madras (India : Presidency) -- History, Military'
+- !lcsh 'East India Company. Army. Carnatic Battalion, 16th -- History'
+- !lcsh 'East India Company. Madras Battalion, 16th -- History'
+- !lcsh 'East India Company. Army. Madras Native Infantry. Regiment, 5th. Battalion,
+  2nd -- History'
+- !lcsh 'East India Company. Army. Madras Native Infantry. Regiment, 16th -- History'
+- !lcsh 'India. Army. Madras Infantry. Regiment, 16th -- History'
+- !lcsh 'India. Army. Punjab Regiment, 76th -- History'
+- !lcsh 'India. Army. Punjab Regiment, 1st. Battalion, 3rd -- History'
+- !lcc 'UA'
+- GITenberg
+title: 'A brief history of the 3rd Battalion, 1st Punjab Regiment : $b formerly: 76th
+  Punjabis; 16th Madras Infantry; 16th Regiment, Madras Native Infantry; 2nd Battalion,
+  5th Madras Native Infantry; 16th Madras Battalion; 16th Carnatic Battalion, or Lane''s
+  Battalion'
+url: http://www.gutenberg.org/ebooks/74664

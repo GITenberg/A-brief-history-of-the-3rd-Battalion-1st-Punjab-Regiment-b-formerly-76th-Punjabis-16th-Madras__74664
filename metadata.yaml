@@ -1,5 +1,8 @@
 _repo: A-brief-history-of-the-3rd-Battalion-1st-Punjab-Regiment-b-formerly-76th-Punjabis-16th-Madras__74664
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74664-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
 description: '"... compiled and published to commemorate the 150th Anniversary of
   the Raising of the 16th Carnatic Battalion and its continuous service from 1776
   to this date [1926]."--Foreword.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74664#A-brief-history-of-the-3rd-Battalion-1st-Punjab-Regiment-b-formerly-76th-Punjabis-16th-Madras_
 gutenberg_issued: '2024-10-31'
 gutenberg_type: Text
 identifiers:
